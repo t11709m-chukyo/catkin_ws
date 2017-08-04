@@ -1,0 +1,8 @@
+prefix=/home/shimizulab/catkin_ws/devel
+
+Name: my_image_converter
+Description: Description of my_image_converter
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/shimizulab/catkin_ws/devel/lib 
+Requires: 
