@@ -1,0 +1,2 @@
+beginner_tutorials:my_image_converter:usb_cam
+-DCATKIN_DEVEL_PREFIX=/home/shimizulab/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/shimizulab/catkin_ws/install -G Unix Makefiles
